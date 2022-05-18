@@ -1,0 +1,4 @@
+com\nopcommerce\demo\Hooks.class
+com\nopcommerce\demo\runner\TestRunner.class
+com\nopcommerce\demo\steps\RegisterSteps.class
+com\nopcommerce\demo\steps\LoginSteps.class
